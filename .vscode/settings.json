@@ -8,5 +8,7 @@
         "backref",
         "elems",
         "ondelete"
-    ]
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
