@@ -2,8 +2,21 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-  }
+}
 
-  main {
+.header-content {
+    text-transform: uppercase;
+    padding: 5px 15px;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+main {
     flex: 1 0 auto;
-  }
+}
+
+.icon {
+    vertical-align: bottom;
+}
